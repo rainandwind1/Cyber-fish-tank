@@ -1,0 +1,28 @@
+# Unity-generated project data
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vs/
+/game/fish-tank/Assets/_Recovery/
+/game/fish-tank/Assets/_Recovery.meta
+*.blend1
+*.blend1.meta
+
+# IDE and generated solution files
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.suo
+
+# Local operating-system and workspace files
+.DS_Store
+Thumbs.db
+Untitled.blend
